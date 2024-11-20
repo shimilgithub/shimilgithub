@@ -22,7 +22,3 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-### 📈 Contribution Graph:
-[![Shimil's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shimilgithub&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
