@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Shimil Shijo!
 
+A passionate Data Scientist and Software Engineer with expertise in data analytics, machine learning, AI, and scalable application development. I specialize in solving complex problems and building impactful solutions using advanced technologies. Currently pursuing my Master of Science in Data Science at the University of Michigan-Dearborn, I have a strong foundation in computer science and a keen interest in Generative AI, Big Data processing, and Natural Language Processing.
+
 ## 🛠 Tech Stack
 
 ### Programming Languages:
@@ -43,11 +45,13 @@
 ### Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ### Others:
-- **SDLC**, **Docker**, **REST API**, **API Testing**, **CI/CD**
-- **MATLAB**, **Computer Vision**, **Scrum**
-- **Data Structures and Algorithms**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-239120?style=flat&logo=azurepipelines&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-0078D7?style=flat&logo=swagger&logoColor=white)
+
 
 ---
 
