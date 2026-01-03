@@ -64,8 +64,8 @@ A passionate Data Science professional with strong experience in **AI/ML, NLP, G
 
 ---
 
-## 📊 GitHub Stats:
-[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=shimilgithub&theme=react-dark&hide_border=true)](https://github.com/shimilgithub)
+`## 📊 GitHub Stats:`
+`[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=shimilgithub&theme=react-dark&hide_border=true)](https://github.com/shimilgithub)`
 
 ---
 
