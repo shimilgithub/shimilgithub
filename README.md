@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Shimil Shijo!
 
-A passionate Data Science student and experienced Software Engineer with expertise in data analytics, machine learning, AI, and scalable application development. I specialize in solving complex problems and building impactful solutions using advanced technologies. Currently pursuing my Master of Science in Data Science at the University of Michigan-Dearborn, I have a strong foundation in computer science and a keen interest in Generative AI, Big Data processing, and Natural Language Processing.
+A passionate Data Science professional with strong experience in AI/ML, NLP, LLMs, and software engineering. Skilled in building ML models,
+RAG systems, REST APIs, and end-to-end data pipelines. Experienced in Python, TensorFlow, PyTorch, LangChain, Docker,
+and cloud tools, with a solid background in software development, research, leadership and production-ready AI solutions.
+
 
 ## 🛠 Tech Stack
 
