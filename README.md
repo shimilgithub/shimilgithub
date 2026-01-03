@@ -37,7 +37,7 @@ A passionate Data Science professional with strong experience in **AI/ML, NLP, G
 ![Transformers](https://img.shields.io/badge/Transformers-0A0A0A?style=flat&logo=huggingface&logoColor=yellow)
 ![GPU](https://img.shields.io/badge/GPU-FF0000?style=flat&logo=nvidia&logoColor=white)
 
-## 🤖 GenAI:
+### 🤖 GenAI:
 ![LangChain](https://img.shields.io/badge/LangChain-6E40C9?style=flat&logo=python&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat&logo=python&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
@@ -65,10 +65,9 @@ A passionate Data Science professional with strong experience in **AI/ML, NLP, G
 ---
 
 ## 📊 GitHub Stats:
-[![Shimil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shimilgithub&show_icons=true&count_private=true&theme=radical)](https://github.com/shimilgithub)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shimilgithub&layout=compact&theme=radical)](https://github.com/shimilgithub)
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shimilgithub&theme=radical)](https://github.com/shimilgithub)
-[![GitHub Commits](https://github-readme-activity-graph.vercel.app/graph?username=shimilgithub&theme=react-dark)](https://github.com/shimilgithub)
+
+[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=shimilgithub&theme=react-dark&hide_border=true)](https://github.com/shimilgithub)
+[![GitHub Commits](https://img.shields.io/badge/Commits-See%20Graph-181717?style=flat&logo=github)](https://github.com/shimilgithub)
 
 ---
 
