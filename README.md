@@ -72,6 +72,9 @@ A passionate Data Science professional with strong experience in **AI/ML, NLP, G
 ## 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=shimilgithub&theme=monokai)](https://github.com/shimilgithub)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amrithasuresh24&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="amrithasuresh24" /> </p>
+
+
 ---
 
 ## 🌐 Connect with Me:
