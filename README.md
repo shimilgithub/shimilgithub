@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Shimil Shijo!
 
-A passionate Data Science professional with strong experience in **AI/ML, NLP, GenAI/LLMs, and software engineering**. Skilled in building **ML models, RAG systems, GenAI pipelines, REST APIs, and end-to-end data pipelines**. Experienced in **Python, TensorFlow, PyTorch, LangChain, FAISS, OpenAI API, LLaMA, Docker, GPU workflows, and cloud tools**, with a solid background in **software development, research, leadership, Agile, and production-ready AI solutions**.
+A passionate AI-Data professional with expertise in machine learning, Data Engineering, NLP, and Generative AI(LLMs).
+Experienced in building end-to-end AI systems, scalable data pipelines, backend services (REST API) and production-ready ML
+solutions using Python, PyTorch, TensorFlow, Transformers, and cloud platforms. Skilled in model deployment,
+MLOps, and GenAI applications, delivering solutions that improve operational efficiency and software quality.
 
 ---
 
