@@ -66,12 +66,12 @@ A passionate Data Science professional with strong experience in **AI/ML, NLP, G
 
 
 ## 📊 GitHub Stats:
-[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shimilgithub&theme=react-dark&hide_border=true)](https://github.com/shimilgithub)
+[![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=shimilgithub&theme=react-dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/shimilgithub)
 
 ---
 
 ## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=shimilgithub&theme=monokai&v=1)](https://github.com/shimilgithub)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=shimilgithub&theme=monokai)](https://github.com/shimilgithub)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shimilgithub&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="shimilgithub" /> </p>
 
