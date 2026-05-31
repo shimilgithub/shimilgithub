@@ -40,7 +40,7 @@ MLOps, and GenAI applications, delivering solutions that improve operational eff
 ![Transformers](https://img.shields.io/badge/Transformers-0A0A0A?style=flat&logo=huggingface&logoColor=yellow)
 ![GPU](https://img.shields.io/badge/GPU-FF0000?style=flat&logo=nvidia&logoColor=white)
 
-### 🤖 GenAI:
+### Generative AI:
 ![LangChain](https://img.shields.io/badge/LangChain-6E40C9?style=flat&logo=python&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat&logo=python&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
@@ -54,9 +54,9 @@ MLOps, and GenAI applications, delivering solutions that improve operational eff
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ### Databases:
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ### Others:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -69,7 +69,7 @@ MLOps, and GenAI applications, delivering solutions that improve operational eff
 ---
 
 ## 🏆 GitHub Trophies:
-[![GitHub Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimilgithub&theme=react-dark)](https://github.com/shimilgithub)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=shimilgithub&theme=monokai)](https://github.com/shimilgithub)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shimilgithub&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="shimilgithub" /> </p>
 
