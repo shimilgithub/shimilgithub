@@ -50,7 +50,7 @@ MLOps, and GenAI applications, delivering solutions that improve operational eff
 
 ### Big Data Processing & Data Warehousing:
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ### Databases:
@@ -65,16 +65,11 @@ MLOps, and GenAI applications, delivering solutions that improve operational eff
 ![API Testing](https://img.shields.io/badge/API%20Testing-FF5733?style=flat&logo=postman&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-009FDA?style=flat&logo=agile&logoColor=white)
 
----
-
-
-## 📊 GitHub Stats:
-[![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=shimilgithub&theme=react-dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/shimilgithub)
 
 ---
 
 ## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=shimilgithub&theme=monokai)](https://github.com/shimilgithub)
+[![GitHub Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimilgithub&theme=react-dark)](https://github.com/shimilgithub)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shimilgithub&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="shimilgithub" /> </p>
 
