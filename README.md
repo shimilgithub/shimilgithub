@@ -38,7 +38,6 @@ MLOps, and GenAI applications, delivering solutions that improve operational eff
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-0A0A0A?style=flat&logo=huggingface&logoColor=yellow)
-![GPU](https://img.shields.io/badge/GPU-FF0000?style=flat&logo=nvidia&logoColor=white)
 
 ### Generative AI:
 ![LangChain](https://img.shields.io/badge/LangChain-6E40C9?style=flat&logo=python&logoColor=white)
@@ -64,6 +63,8 @@ MLOps, and GenAI applications, delivering solutions that improve operational eff
 ![REST API](https://img.shields.io/badge/REST%20API-0078D7?style=flat&logo=swagger&logoColor=white)
 ![API Testing](https://img.shields.io/badge/API%20Testing-FF5733?style=flat&logo=postman&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-009FDA?style=flat&logo=agile&logoColor=white)
+![GPU](https://img.shields.io/badge/GPU-FF0000?style=flat&logo=nvidia&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-FF0000?style=flat&logo=nvidia&logoColor=white)
 
 
 ---
