@@ -69,7 +69,7 @@ MLOps, and GenAI applications, delivering solutions that improve operational eff
 ---
 
 ## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=shimilgithub&theme=monokai)](https://github.com/shimilgithub)
+[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=shimilgithub\&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shimilgithub&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="shimilgithub" /> </p>
 
