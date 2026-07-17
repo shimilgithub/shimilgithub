@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Shimil Shijo!
 
-A passionate AI-Data professional with expertise in machine learning, Data Engineering, NLP, and Generative AI(LLMs).
-Experienced in building end-to-end AI systems, scalable data pipelines, backend services (REST API) and production-ready ML
-solutions using Python, PyTorch, TensorFlow, Transformers, and cloud platforms. Skilled in model deployment,
-MLOps, and GenAI applications, delivering solutions that improve operational efficiency and software quality.
+I am a Software Engineer specializing in  Machine Learning, Data Engineering, NLP, and Generative AI (LLMs). I build scalable backend services, end-to-end AI applications, data pipelines, and production-ready ML solutions using Python, PyTorch, TensorFlow, Transformers, and cloud platforms.
+
+I have experience with model deployment, RAG, Agentic AI, and LLM-based applications. I enjoy building reliable software and AI systems that solve real-world business problems.
+
+Happy to collaborate on innovative AI and software engineering projects and contribute to open-source.
 
 ---
 
@@ -53,10 +54,9 @@ MLOps, and GenAI applications, delivering solutions that improve operational eff
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
-### Big Data Processing & Data Warehousing:
+### Big Data & Cloud:
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ### Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
