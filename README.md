@@ -81,7 +81,7 @@ Happy to collaborate on innovative AI and software engineering projects and cont
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shimilgithub&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=shimilgithub\&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shimilgithub&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="shimilgithub" /> </p>
 
