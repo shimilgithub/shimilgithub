@@ -83,7 +83,6 @@ Happy to collaborate on innovative AI and software engineering projects and cont
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shimilgithub&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="shimilgithub" /> </p>
 
-
 ---
 
 ## 🌐 Connect with Me:
